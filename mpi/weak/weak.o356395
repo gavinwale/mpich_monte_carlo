@@ -1,0 +1,9 @@
+N = 16777216
+Process 3 estimation/error of pi: 3.140945 , -0.020602%
+Process 2 estimation/error of pi: 3.141396 , -0.006273%
+Process 1 estimation/error of pi: 3.140815 , -0.024760%
+Process 0 estimation/error of pi: 3.141967 , 0.011910%
+Global estimation of Pi: 3.141281
+Global error: -0.009931%
+Parallel execution time (rank 0): 0.094769
+Average parallel execution time: 0.094396
