@@ -1,0 +1,21 @@
+N = 1600
+Process 3 estimation/error of pi: 3.400000 , 8.225361%
+Process 7 estimation/error of pi: 3.280000 , 4.405643%
+Process 1 estimation/error of pi: 3.080000 , -1.960555%
+Process 2 estimation/error of pi: 2.920000 , -7.053513%
+Process 5 estimation/error of pi: 2.920000 , -7.053513%
+Process 6 estimation/error of pi: 3.200000 , 1.859164%
+Process 9 estimation/error of pi: 3.280000 , 4.405643%
+Process 10 estimation/error of pi: 2.960000 , -5.780274%
+Process 11 estimation/error of pi: 3.040000 , -3.233795%
+Process 13 estimation/error of pi: 3.280000 , 4.405643%
+Process 15 estimation/error of pi: 2.960000 , -5.780274%
+Process 0 estimation/error of pi: 3.440000 , 9.498601%
+Global estimation of Pi: 3.162500
+Global error: 0.665502%
+Parallel execution time (rank 0): 0.000079
+Average parallel execution time: 0.000054
+Process 4 estimation/error of pi: 3.240000 , 3.132403%
+Process 8 estimation/error of pi: 3.320000 , 5.678882%
+Process 12 estimation/error of pi: 3.160000 , 0.585924%
+Process 14 estimation/error of pi: 3.120000 , -0.687316%
