@@ -1,0 +1,39 @@
+Process 17 estimation/error of pi: 3.096774 , -1.426616%
+Process 21 estimation/error of pi: 3.612903 , 15.002281%
+Process 25 estimation/error of pi: 3.354839 , 6.787833%
+Process 29 estimation/error of pi: 3.225806 , 2.680608%
+Process 18 estimation/error of pi: 3.225806 , 2.680608%
+Process 19 estimation/error of pi: 3.225806 , 2.680608%
+Process 22 estimation/error of pi: 2.967742 , -5.533840%
+Process 23 estimation/error of pi: 3.483871 , 10.895057%
+Process 26 estimation/error of pi: 2.580645 , -17.855513%
+Process 27 estimation/error of pi: 2.838710 , -9.641065%
+Process 30 estimation/error of pi: 3.483871 , 10.895057%
+Process 31 estimation/error of pi: 3.354839 , 6.787833%
+Process 20 estimation/error of pi: 2.709677 , -13.748289%
+Process 24 estimation/error of pi: 3.096774 , -1.426616%
+Process 28 estimation/error of pi: 3.225806 , 2.680608%
+Process 9 estimation/error of pi: 3.225806 , 2.680608%
+N = 1000
+Process 3 estimation/error of pi: 3.225806 , 2.680608%
+Process 11 estimation/error of pi: 3.354839 , 6.787833%
+Process 15 estimation/error of pi: 3.225806 , 2.680608%
+Process 1 estimation/error of pi: 2.838710 , -9.641065%
+Process 7 estimation/error of pi: 3.096774 , -1.426616%
+Process 10 estimation/error of pi: 2.967742 , -5.533840%
+Process 13 estimation/error of pi: 2.967742 , -5.533840%
+Process 14 estimation/error of pi: 3.483871 , 10.895057%
+Process 2 estimation/error of pi: 3.096774 , -1.426616%
+Process 8 estimation/error of pi: 3.225806 , 2.680608%
+Process 12 estimation/error of pi: 3.225806 , 2.680608%
+Process 5 estimation/error of pi: 2.838710 , -9.641065%
+Process 16 estimation/error of pi: 2.709677 , -13.748289%
+Process 0 estimation/error of pi: 3.483871 , 10.895057%
+Global estimation of Pi: 3.161290
+Global error: 0.626996%
+Parallel execution time (rank 0): 0.001046
+Average parallel execution time: 0.000617
+Average CALCULATION time: 0.000005
+Average COMMUNICATION time: 0.000615
+Process 4 estimation/error of pi: 3.354839 , 6.787833%
+Process 6 estimation/error of pi: 3.354839 , 6.787833%

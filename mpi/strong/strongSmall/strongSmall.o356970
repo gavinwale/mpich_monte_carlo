@@ -1,0 +1,9 @@
+N = 1000
+Process 1 estimation/error of pi: 3.104000 , -1.196611%
+Process 0 estimation/error of pi: 3.256000 , 3.641699%
+Global estimation of Pi: 3.180000
+Global error: 1.222544%
+Parallel execution time (rank 0): 0.000061
+Average parallel execution time: 0.000053
+Average CALCULATION time: 0.000018
+Average COMMUNICATION time: 0.000039
