@@ -1,0 +1,71 @@
+N = 1073741824
+Process 9 estimation/error of pi: 3.141770 , 0.005634%
+Process 11 estimation/error of pi: 3.141379 , -0.006797%
+Process 21 estimation/error of pi: 3.142032 , 0.013989%
+Process 3 estimation/error of pi: 3.142002 , 0.013041%
+Process 13 estimation/error of pi: 3.141757 , 0.005239%
+Process 1 estimation/error of pi: 3.141686 , 0.002963%
+Process 7 estimation/error of pi: 3.141153 , -0.013999%
+Process 17 estimation/error of pi: 3.141840 , 0.007873%
+Process 19 estimation/error of pi: 3.141758 , 0.005262%
+Process 18 estimation/error of pi: 3.141787 , 0.006188%
+Process 6 estimation/error of pi: 3.141078 , -0.016374%
+Process 52 estimation/error of pi: 3.141797 , 0.006499%
+Process 5 estimation/error of pi: 3.142010 , 0.013291%
+Process 41 estimation/error of pi: 3.142413 , 0.026124%
+Process 54 estimation/error of pi: 3.141643 , 0.001589%
+Process 4 estimation/error of pi: 3.141559 , -0.001067%
+Process 29 estimation/error of pi: 3.140965 , -0.019964%
+Process 62 estimation/error of pi: 3.141230 , -0.011548%
+Process 15 estimation/error of pi: 3.141516 , -0.002448%
+Process 33 estimation/error of pi: 3.141408 , -0.005879%
+Process 63 estimation/error of pi: 3.142310 , 0.022838%
+Process 12 estimation/error of pi: 3.142140 , 0.017435%
+Process 37 estimation/error of pi: 3.141653 , 0.001908%
+Process 46 estimation/error of pi: 3.141899 , 0.009740%
+Process 14 estimation/error of pi: 3.141901 , 0.009800%
+Process 31 estimation/error of pi: 3.142220 , 0.019970%
+Process 2 estimation/error of pi: 3.141553 , -0.001272%
+Process 36 estimation/error of pi: 3.142250 , 0.020918%
+Process 48 estimation/error of pi: 3.142066 , 0.015067%
+Process 10 estimation/error of pi: 3.140784 , -0.025732%
+Process 39 estimation/error of pi: 3.141540 , -0.001667%
+Process 45 estimation/error of pi: 3.141784 , 0.006097%
+Process 20 estimation/error of pi: 3.142433 , 0.026762%
+Process 28 estimation/error of pi: 3.141457 , -0.004315%
+Process 50 estimation/error of pi: 3.141564 , -0.000900%
+Process 8 estimation/error of pi: 3.141706 , 0.003608%
+Process 35 estimation/error of pi: 3.142088 , 0.015765%
+Process 16 estimation/error of pi: 3.141830 , 0.007569%
+Process 40 estimation/error of pi: 3.140777 , -0.025967%
+Process 23 estimation/error of pi: 3.141219 , -0.011905%
+Process 27 estimation/error of pi: 3.141438 , -0.004938%
+Process 25 estimation/error of pi: 3.141433 , -0.005097%
+Process 32 estimation/error of pi: 3.141008 , -0.018621%
+Process 26 estimation/error of pi: 3.141181 , -0.013111%
+Process 34 estimation/error of pi: 3.141515 , -0.002464%
+Process 30 estimation/error of pi: 3.141523 , -0.002221%
+Process 42 estimation/error of pi: 3.141625 , 0.001035%
+Process 38 estimation/error of pi: 3.141272 , -0.010212%
+Process 47 estimation/error of pi: 3.141559 , -0.001082%
+Process 49 estimation/error of pi: 3.141726 , 0.004260%
+Process 53 estimation/error of pi: 3.141489 , -0.003298%
+Process 56 estimation/error of pi: 3.140855 , -0.023470%
+Process 58 estimation/error of pi: 3.141020 , -0.018234%
+Process 57 estimation/error of pi: 3.141405 , -0.005962%
+Process 55 estimation/error of pi: 3.141831 , 0.007584%
+Process 51 estimation/error of pi: 3.141593 , 0.000003%
+Process 24 estimation/error of pi: 3.141507 , -0.002714%
+Process 60 estimation/error of pi: 3.141057 , -0.017058%
+Process 44 estimation/error of pi: 3.141215 , -0.012034%
+Process 59 estimation/error of pi: 3.142277 , 0.021776%
+Process 61 estimation/error of pi: 3.142105 , 0.016312%
+Process 43 estimation/error of pi: 3.141191 , -0.012792%
+Process 22 estimation/error of pi: 3.142131 , 0.017124%
+Process 0 estimation/error of pi: 3.142060 , 0.014862%
+Global estimation of Pi: 3.141625
+Global error: 0.001015%
+Parallel execution time (rank 0): 0.415037
+Average parallel execution time: 0.413976
+Average CALCULATION time: 0.413849
+Average COMMUNICATION time: 0.000131

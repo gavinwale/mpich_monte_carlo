@@ -1,0 +1,39 @@
+N = 1073741824
+Process 3 estimation/error of pi: 3.141774 , 0.005767%
+Process 23 estimation/error of pi: 3.141803 , 0.006685%
+Process 5 estimation/error of pi: 3.141277 , -0.010034%
+Process 27 estimation/error of pi: 3.141499 , -0.002980%
+Process 7 estimation/error of pi: 3.141878 , 0.009076%
+Process 20 estimation/error of pi: 3.141874 , 0.008950%
+Process 2 estimation/error of pi: 3.141441 , -0.004824%
+Process 21 estimation/error of pi: 3.141466 , -0.004042%
+Process 6 estimation/error of pi: 3.141648 , 0.001763%
+Process 22 estimation/error of pi: 3.141592 , -0.000024%
+Process 13 estimation/error of pi: 3.141038 , -0.017657%
+Process 26 estimation/error of pi: 3.141842 , 0.007922%
+Process 15 estimation/error of pi: 3.141277 , -0.010053%
+Process 31 estimation/error of pi: 3.141590 , -0.000077%
+Process 12 estimation/error of pi: 3.141815 , 0.007064%
+Process 30 estimation/error of pi: 3.141464 , -0.004111%
+Process 14 estimation/error of pi: 3.141691 , 0.003141%
+Process 25 estimation/error of pi: 3.141406 , -0.005936%
+Process 29 estimation/error of pi: 3.141284 , -0.009825%
+Process 28 estimation/error of pi: 3.141808 , 0.006860%
+Process 17 estimation/error of pi: 3.141915 , 0.010256%
+Process 1 estimation/error of pi: 3.141330 , -0.008364%
+Process 24 estimation/error of pi: 3.141966 , 0.011891%
+Process 19 estimation/error of pi: 3.141650 , 0.001839%
+Process 4 estimation/error of pi: 3.141172 , -0.013403%
+Process 18 estimation/error of pi: 3.141876 , 0.009015%
+Process 9 estimation/error of pi: 3.141434 , -0.005052%
+Process 11 estimation/error of pi: 3.141721 , 0.004074%
+Process 10 estimation/error of pi: 3.141788 , 0.006211%
+Process 8 estimation/error of pi: 3.142183 , 0.018778%
+Process 16 estimation/error of pi: 3.141537 , -0.001762%
+Process 0 estimation/error of pi: 3.141701 , 0.003437%
+Global estimation of Pi: 3.141617
+Global error: 0.000768%
+Parallel execution time (rank 0): 0.828484
+Average parallel execution time: 0.827410
+Average CALCULATION time: 0.827249
+Average COMMUNICATION time: 0.000164

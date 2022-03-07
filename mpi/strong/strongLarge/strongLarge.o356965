@@ -1,0 +1,23 @@
+N = 1073741824
+Process 13 estimation/error of pi: 3.141678 , 0.002708%
+Process 1 estimation/error of pi: 3.141558 , -0.001113%
+Process 7 estimation/error of pi: 3.141547 , -0.001464%
+Process 10 estimation/error of pi: 3.141869 , 0.008812%
+Process 11 estimation/error of pi: 3.141443 , -0.004767%
+Process 3 estimation/error of pi: 3.141851 , 0.008208%
+Process 2 estimation/error of pi: 3.141697 , 0.003332%
+Process 15 estimation/error of pi: 3.141771 , 0.005668%
+Process 9 estimation/error of pi: 3.141649 , 0.001809%
+Process 6 estimation/error of pi: 3.141428 , -0.005234%
+Process 12 estimation/error of pi: 3.141266 , -0.010413%
+Process 14 estimation/error of pi: 3.140987 , -0.019289%
+Process 8 estimation/error of pi: 3.141379 , -0.006786%
+Process 5 estimation/error of pi: 3.141890 , 0.009463%
+Process 0 estimation/error of pi: 3.141746 , 0.004890%
+Global estimation of Pi: 3.141580
+Global error: -0.000396%
+Parallel execution time (rank 0): 1.990994
+Average parallel execution time: 1.963872
+Average CALCULATION time: 1.957640
+Average COMMUNICATION time: 0.006236
+Process 4 estimation/error of pi: 3.141525 , -0.002168%
